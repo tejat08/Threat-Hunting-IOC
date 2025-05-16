@@ -1,1 +1,1 @@
-# Threat Hunting - Iocs
+A curated collection of Indicators of Compromise (IOCs) and threat intelligence for security analysts, blue teams, and threat hunters. This repository is maintained and is regularly updated with the latest IOCs from real-world cyber threats, malware campaigns, and advanced persistent threats (APTs).
