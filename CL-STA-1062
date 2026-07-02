@@ -17,20 +17,17 @@ cbfe8de6ffadbb1d396f61e63eb18e8b11c29527c1528641e3223d4c516cf7c3
 9b481b69cd91b09fa7bae7428f646dd89473a4c03393e43da81fe756cde1c472
 PerfWatson2.exe
 chrome_setup.zip
-chrome_setup.exe
 chrome_setup.exe.config
 MyAppDomainManager.dll
-vmtools.exe
 vmwared.exe
-fscan
-web.rar
+hamcore.se2
+anydesk_0117.zip
+win-vpn.rar
 %LOCALAPPDATA%\PerfWatson2.exe
-%USERPROFILE%\Downloads\chrome_setup.exe
 %USERPROFILE%\Downloads\chrome_setup.exe.config
 %USERPROFILE%\Downloads\MyAppDomainManager.dll
 C:\web.rar
 GoogleUpdaterTaskSystem140.0.7272.0 {ACE7A46F-50FD-481C-AB32-3D838871DB40}
-GoogleUpdater
 fscan
 mimikatz
 JuicyPotato
