@@ -41,9 +41,3 @@ nudwee.exe
 cred.dll
 clip.dll
 C:\Users\<username>\e079729711\nudwee.exe
-HKCU\Software\Martin Prikryl\WinSCP 2\Sessions
-HKCU\Software\Microsoft\Office\<version>\Outlook\Profiles
-HKCU\Software\Microsoft\Windows Messaging Subsystem\Profiles
-HKCU\SOFTWARE\Valve\Steam
-C:\ProgramData\<HWID>.txt
-cmd.exe /C ping 127.0.0.1 -n 5 && del /f /q "<malware_path>"
